@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="gray-background">
       <img src={logo} lat="logo"/>
-      <h2>start test </h2>
+      <h2>화면에 잘 나오는지 테스트 </h2>
     </div>
   );
 }
