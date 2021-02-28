@@ -3,13 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          hello react!
-        </p>
-      </header>
+    <div className="gray-background">
+      <img src={logo} lat="logo"/>
+      <h2>start test </h2>
     </div>
   );
 }
